@@ -1,6 +1,6 @@
 # Desafio Go: Conversor de Temperatura 🌡️
 
-![Banner Go](https://miro.medium.com/1*MmUyuPFhqG5jDreLH8VSJA.jpeg)
+![Banner Go](https://assets.dio.me/Ko22-i7zgPJFpuJaQHdgZMyEIiOA8bzSOqqFKv8Hj5I/f:webp/q:80/L2FydGljbGVzL2NvdmVyLzkzNDAwNjEzLTllNGMtNDRjOS1iNDJhLTlhMjk3MmFmMzA2MC5wbmc)
 
 Este projeto foi desenvolvido como parte do curso de Go da **DIO**. O objetivo principal foi colocar em prática a sintaxe essencial da linguagem através de um algoritmo de conversão de escalas termométricas.
 
